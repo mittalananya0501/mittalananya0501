@@ -4,9 +4,9 @@ I'm **Ananya**, a first year Computer Science student at DTU.
 
 I'm currently exploring software development, building projects, and participating in hackathons to create practical, real-world solutions.
 
-I'm especially interested in **design-driven products, scalable systems, and impactful tech**.
+I'm especially interested in design-driven products, scalable systems, and impactful tech.
 
-Outside of coding, I enjoy painting, reading, and continuously learning.
+Outside of coding, I enjoy painting, reading, and learning.
 
 ---
 
